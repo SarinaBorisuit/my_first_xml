@@ -1,0 +1,27 @@
+<menu>
+  <food>
+    <name>Pizza</name>
+    <price>$20</price>
+    <cal>120</cal>
+  </food>
+  <food>
+    <name>Hotdog</name>
+    <price>$12</price>
+    <cal>130</cal>
+  </food>
+  <food>
+    <name>Timsum</name>
+    <price>$25</price>
+    <cal>190</cal>
+  </food>
+  <food>
+    <name>Spaghetti</name>
+    <price>$30</price>
+    <cal>300</cal>
+  </food>
+ <food>
+    <name>Noodles</name>
+    <price>$15</price>
+    <cal>250</cal>
+  </food>
+</menu>
